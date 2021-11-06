@@ -1,0 +1,3 @@
+git clone https://github.com/<your_nickname>/math_theory_nn.git
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
